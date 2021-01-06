@@ -7,6 +7,7 @@ The releases I have there are based on Monday Jan 1st, 2021 master branch of our
 
 ## Instructions
 
+* Clone this sample repo.
 * Rename your current vcpkg directory.
 * Clone antkmsft's fork of the vcpkg repo: `git clone https://github.com/antkmsft/vcpkg.git`, so that it exists where your old vcpkg directory used to be.
 * Switch to azure-sdk-for-cpp branch: `git checkout azure-sdk-for-cpp`
